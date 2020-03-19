@@ -1,19 +1,18 @@
 Text Adventure Game
 ===================
 
-- This is nothing but a game, which plays through text as a story or novel.
-- In this project I have wrote two text adventure games as python scripts.
-- Also gave text to speech conversion feature using python gTTS module.
-- Hence project TextAdventure contain game scripts and audio files corresponds to game messages.
+- An interactive text based game.
+- Includes a Quize game and an Adventure story game.
+- Implements text to speech conversion feature using python gTTS module.
 
-###### Scripts present in TextAdventure Projects ######
+###### Scripts Used ######
 
 * AdventureQuize.py
 * AdventureTextGame.py
 * AdventureTextGameWithSound.py
 * GameMessages.py
 
-###### Audio files present in TextAdventure Projects ######
+###### Audio files used ######
 
 * room1.mp3
 * choicesOfRoom1.mp3
@@ -38,4 +37,5 @@ Text Adventure Game
 * townRoomDieMessage.mp3
 
 ###### Dependency Modules ######
+* python3
 * gTTS
