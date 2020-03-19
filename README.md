@@ -41,7 +41,7 @@ Text Adventure Game
 * gTTS
 
 ###### Interacting with the game ######
-1. Open a terminal
+1. Open terminal
 1. Create and activate a virtual env for TextAdventure using python3
-2. Install gTTS using pip, with command "pip install gTTS"
-3. Run AdventureTextGameWithSound.py with command "python AdventureTextGameWithSound.py"
+2. Install gTTS using pip, with command `pip install gTTS`
+3. Run AdventureTextGameWithSound.py with command `python AdventureTextGameWithSound.py`
